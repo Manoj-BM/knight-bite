@@ -19,6 +19,6 @@ This project is a frontend clone of the Knight Bite website built for learning a
 - CSS3
 - Flexbox
 - CSS Grid
-- Media Queries
+- Media Queries.
 
 
